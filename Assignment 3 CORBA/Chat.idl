@@ -1,0 +1,5 @@
+module ChatApp{
+	interface Chat{
+		void displayMessage(in string str,in string clientName);
+	};
+};
